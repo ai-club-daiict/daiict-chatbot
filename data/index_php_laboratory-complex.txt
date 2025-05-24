@@ -1,0 +1,367 @@
+URL: https://www.daiict.ac.in/index.php/laboratory-complex
+
+Laboratory Complex | Dhirubhai Ambani Institute of Information and Communication Technology
+Admissions Enquire Now!
+displayNone
+displayNone
+Accessibility Menu
+Contrast View
+Text Resize
+Skip to Main Content
+Screen Reader Access
+Pause Animations
+Pause
+Cursor
+Admissions 2025 Open
+|
+Summer Research Internship at DAU
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+PG Admissions 2023 Announced
+|
+Ph.D. Admissions 2023
+Announced
+| Admission Helpline - Voice call: 080 66 91 91 80
+M.Tech.
+(EC) - last date 28
+th
+April 2022
+Admission Helpline - Voice call: 080 66 91 91 80
+UG Admissions - All India
+Category - Admission Status Announced
+Top Right Side Menu
+DCEI
+CEP
+NAAC
+NIRF
+NEP 2020
+Alumni
+Alumni Document Service
+Grievance Redressal
+ICC
+Policies
+Tenders
+Contact
+logo
+Dhirubhai Ambani Institute of Information and Communication Technology
+A Private University
+Established by The State Government of Gujarat Act
+search
+search
+Search
+Daiict Menu
+About Us
+Governance
+Founder
+President
+Board of Governors
+Director
+Academic Council
+Finance Committee
+Deans
+Dean (Faculty)
+Dean (Academic Programs)
+Dean (Research)
+Dean (Students)
+Executive Registrar
+IQAC
+Organogram
+Academics
+Board Of Studies
+Programs of Study
+UG Programs
+PG Programs
+Doctoral Program
+Academic Areas
+Dean's Office
+Faculty
+Academic Calendar
+Courses at Moodle
+Examination Department
+Orientation Program
+Research
+Research Overview
+Dean's Office
+Areas
+AI, ML and Data Science
+Algorithms and Theory of Computation
+Communications and Signal Processing
+Humanities, Social Sciences and Design
+Physics and Mathematical Sciences
+Software Systems and Networking
+VLSI & Embedded Systems
+Sponsored Projects
+Noteworthy Contributions
+Accomplishments
+Outreach and Contributions
+Publications
+Theses and Reports
+IRB
+Student Research Award
+People
+Faculty
+Staff
+Doctoral Scholars
+Parents
+Alumni
+Students
+Student Body Government
+Student Committees
+Student Clubs
+IEEE Student Branch
+Dean's Office
+Achievements
+Admissions
+Why choose DA-IICT?
+Undergraduate Admissions
+Postgraduate Admissions
+Ph.D. Admissions
+Scholarships
+Infrastructure
+Resource Centre
+ICT Infrastructure
+Lecture Complex
+Laboratory Complex
+Halls of Residence
+Food Court
+Medical Facility
+Campus Security
+Sports Complex
+Placements
+About Placements
+Placement News & Updates
+Careers
+Faculty Positions
+Faculty on Tenure
+Faculty on Contract
+Postdoc Positions
+Project Positions
+Non-Teaching Staff Positions
+Laboratory Complex
+Breadcrumb
+Home
+Infrastructure
+Laboratory Complex
+Electronics , RF, VLSI , IoT, Network, Engineering Design Workshop, DSP, CS & HPC, MMD, AIP, Computer laboratories are a facility where students access to the hardware and software necessary to fulfill the requirements in the course, with having 22 nos. of teaching labs, 11 nos. of research labs with inclusive of sponsored project labs & 6 nos. of labs utilized for dedicated work space to PG students. The laboratories are utilized for academic, research, workshop/seminars/technical fest & placement activities. Few labs are available to students for more than 16 hours per day.
+The laboratories have high-tech computers , with total nos. more than 1100 advanced computers with gigabit Ethernet connectivity, provision of VPN access, Licenses as well as open source OS with necessary required license as well as open source software installed as per need to perform lab assignment related to their academic requirement. Also having fixed and ad-hoc availability of projector facilities, white boards, testing and measurement instruments, RF instruments , IoT related various sensors and kits, embedded kits , NI make equipment/kit, equipment for engineering drawing workshops , with air conditioned facilities at every lab room. All students have access to the printing facility, institute's email account, intranet, intranet access - through SOPHOS firewall security system, wi-fi access also to connect their own laptops. User manual / user guide of equipment available at laboratory website -
+lab.daiict.ac.in
+- with updated detail about the laboratories resources as well.
+Electronics Laboratories
+- Analog oscilloscopes, Function generators, Digital storage oscilloscopes, Fixed as well as dual/tripel output variable power supplies, Digital multimeters , NI Elvis kit, Optical Fiber communication kits, LCR meter, Analog system lab kits, IC tester, Digital trainer kits, Microprocessor trainer kits, Microcontroller kits, various electronics components. Xilinx , Labview & Vivado design software as well as open source software. Having Various FPGA starter kits & boards , Raspberry PI single board computers, Beagle bone black boards, FRDM boards to perform embedded related lab assignments also with higher end desktops with Dual platform - Windows and Fedora.
+Network Laboratory
+-Network switches and hubs, LAN trainer kits, wireless adapters with wireless access points with higher end desktops with Dual platform - Windows & Fedora, NETSIM software as well as open source software.
+RF Laboratory
+--Analog oscilloscopes, Logic analyzer, Antenna trainer system kits, Direct Sequence Spread Spectrum Trainer kits, Microwave test benches with Gunn power supplies, klystron power supplies, VSWR meters, Motorised Transmission line trainer kits, Network analyzer, RF signal generators, power meter, spectrum analyzers, CST studio suite software as well as open sources software, and higher end desktops with Windows platform
+VLSI Laboratories
+- Cadence & mentor graphics software with higher end desktops & EVE/Zebu hardware.
+IoT Laboratory
+- Sensors, related components, Arduino boards, Raspberry PI boards, EEG machine, LabView robotics SbRIO starter kits, NI smart camera, NI MyDAQ - Data acquisition , higher end desktops with dual platform -Windows & Ubuntu/Fedora with open source software.
+Engineering drawing workshop
+- Table top CNC lathe machine, Lathe machine, stick welding power source machine, milling and cutter , bench polisher, drilling cum milling machine, PCB proto type machine with PCAM and PCB design software, autocad software , higher end desktops with dual platform - Windows & Fedora with open software, with access of 3D printer too.
+DSP Laboratory
+- MATLAB software as well open source software with higher end desktops with open source OS, NI USRP2922 radio kits, NI speedy-33 - Signal Processing Engineering Educational Device for Youth
+CS & HPC laboratory
+- With GPU enabled higher end desktops , SSH access to GPU servers & CS cluster also.
+Computer laboratories
+- Higher end desktops with windows/ Linux/Ubuntu/Fedora platform as well as license & open source software & packages as per the academic requirement.
+MMD Laboratories
+- Higher end desktops with windows platform as well as Apple MAC systems, videography and photography equipment, adobe creative clouds software package.
+AIP Laboratory
+- Higher end desktops with audio-visual facility, Windows/Ubuntu platform with license and open source software/package as per requirement.
+Contact Us
+Text
+DA-IICT, DA-IICT Road,
+Gandhinagar 382 007, Gujarat (India)
+Text
+For Admission Enquiries
+Text
+(+91) 079 - 6826 1700
+Text
+(+91) 079 - 6826 1710
+Text
+info[at]daiict[dot]ac[dot]in
+For Admissions
+Voice Call:
+Text
+079 69 08 08 08
+Support Ticket:
+Click here
+Follow Us On
+facebook
+twitter
+Instagram
+Youtube
+LinkedIn
+blogIcon
+Admissions
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral Program
+displayNone
+Scholarships
+Research
+displayNone
+Research Overview
+displayNone
+Deans Office
+displayNone
+Areas
+displayNone
+Sponsored Projects
+displayNone
+Faculty Achievements
+displayNone
+Publications
+displayNone
+Theses and Reports
+Academics
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral
+displayNone
+Stakeholder Feedback
+People
+displayNone
+Faculty
+displayNone
+Staff
+displayNone
+Doctoral Scholars
+NAAC
+displayNone
+NAAC Cycle 2 SSR Submitted: 2023
+displayNone
+SSR & Evaluative Reports Addendum 2017
+displayNone
+displayNone
+SSR 2015
+displayNone
+displayNone
+Evaluative Report 2015
+displayNone
+CoE, Government of Gujarat
+displayNone
+Application submitted
+displayNone
+Audited Accounts
+displayNone
+Meeting of the Governing Bodies
+NIRF
+displayNone
+INDIA Ranking 2025 DCS Submitted
+INDIA Ranking 2020 DCS Submitted
+Other Links
+displayNone
+UGC proforma/Mandatory disclosure
+displayNone
+displayNone
+e-Procurement
+displayNone
+displayNone
+Prof. S.C. Sahasrabudhe - A Memoir
+displayNone
+Holidays 2025
+displayNone
+displayNone
+Ecampus
+displayNone
+displayNone
+Intranet
+displayNone
+displayNone
+Courses
+displayNone
+displayNone
+Capacity Development and Skills Enhancement Initiatives
+displayNone
+Parents
+displayNone
+CEP
+displayNone
+DCEI
+displayNone
+displayNone
+Committees
+displayNone
+displayNone
+Anti-Ragging Committee
+displayNone
+displayNone
+DA-IICT Lecture Series
+displayNone
+Synapse
+displayNone
+displayNone
+Concours
+displayNone
+displayNone
+Tree Survey
+displayNone
+Newsletter
+displayNone
+Directory
+displayNone
+Photo Gallery
+Group Website
+Choose a Group Website:
+----------- Group Websites ------------
+Reliance Group
+-------------------------------------
+Reliance Communications
+Reliance Digital TV
+Global Cloud Xchange
+Reliance Globalcall
+-------------------------------------
+Reliance Capital
+RARCL
+Reliance Securities
+Reliance PMS
+Reliance General Insurance
+Reliance Life Insurance
+Reliance Commercial Finance
+Reliance Mutual Fund
+-------------------------------------
+Reliance Infrastructure
+Reliance Energy
+Reliance Power
+Reliance Roads
+Reliance Cements
+Reliance Energy Trading
+Mumbai Metro One
+Nanded Airport
+CGRF
+BSES Delhi
+-------------------------------------
+Reliance Entertainment
+Reliance Big Entertainment
+Reliance Broadcast Network
+BIG Productions
+Reliance Home Video & Games
+Reliance Animation
+Reliance Synergy
+BIG 92.7 FM
+BIG ADDA
+BIG Flix
+Talent House
+Reliance Games
+Zapak
+-------------------------------------
+Kokilaben Hospital
+KDA Nursing College
+Harmony
+DAIICT
+Footer Menu 3
+Feedback
+Copyright Policy
+Disclaimer
+Sitemap
+Copyright © 2021 DA-IICT, Gandhinagar, Gujarat, India
+Visitors:
+Last Updated: 23-05-2025
+Share it
+Back to Top

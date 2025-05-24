@@ -1,0 +1,678 @@
+URL: https://www.daiict.ac.in/index.php/da-iict-student-research-excellence-award
+
+DA-IICT Student Research Excellence Award | Dhirubhai Ambani Institute of Information and Communication Technology
+Admissions Enquire Now!
+displayNone
+displayNone
+Accessibility Menu
+Contrast View
+Text Resize
+Skip to Main Content
+Screen Reader Access
+Pause Animations
+Pause
+Cursor
+Admissions 2025 Open
+|
+Summer Research Internship at DAU
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+PG Admissions 2023 Announced
+|
+Ph.D. Admissions 2023
+Announced
+| Admission Helpline - Voice call: 080 66 91 91 80
+M.Tech.
+(EC) - last date 28
+th
+April 2022
+Admission Helpline - Voice call: 080 66 91 91 80
+UG Admissions - All India
+Category - Admission Status Announced
+Top Right Side Menu
+DCEI
+CEP
+NAAC
+NIRF
+NEP 2020
+Alumni
+Alumni Document Service
+Grievance Redressal
+ICC
+Policies
+Tenders
+Contact
+logo
+Dhirubhai Ambani Institute of Information and Communication Technology
+A Private University
+Established by The State Government of Gujarat Act
+search
+search
+Search
+Daiict Menu
+About Us
+Governance
+Founder
+President
+Board of Governors
+Director
+Academic Council
+Finance Committee
+Deans
+Dean (Faculty)
+Dean (Academic Programs)
+Dean (Research)
+Dean (Students)
+Executive Registrar
+IQAC
+Organogram
+Academics
+Board Of Studies
+Programs of Study
+UG Programs
+PG Programs
+Doctoral Program
+Academic Areas
+Dean's Office
+Faculty
+Academic Calendar
+Courses at Moodle
+Examination Department
+Orientation Program
+Research
+Research Overview
+Dean's Office
+Areas
+AI, ML and Data Science
+Algorithms and Theory of Computation
+Communications and Signal Processing
+Humanities, Social Sciences and Design
+Physics and Mathematical Sciences
+Software Systems and Networking
+VLSI & Embedded Systems
+Sponsored Projects
+Noteworthy Contributions
+Accomplishments
+Outreach and Contributions
+Publications
+Theses and Reports
+IRB
+Student Research Award
+People
+Faculty
+Staff
+Doctoral Scholars
+Parents
+Alumni
+Students
+Student Body Government
+Student Committees
+Student Clubs
+IEEE Student Branch
+Dean's Office
+Achievements
+Admissions
+Why choose DA-IICT?
+Undergraduate Admissions
+Postgraduate Admissions
+Ph.D. Admissions
+Scholarships
+Infrastructure
+Resource Centre
+ICT Infrastructure
+Lecture Complex
+Laboratory Complex
+Halls of Residence
+Food Court
+Medical Facility
+Campus Security
+Sports Complex
+Placements
+About Placements
+Placement News & Updates
+Careers
+Faculty Positions
+Faculty on Tenure
+Faculty on Contract
+Postdoc Positions
+Project Positions
+Non-Teaching Staff Positions
+DA-IICT Student Research Excellence Award
+Breadcrumb
+Home
+Research
+DA-IICT Student Research Excellence Award
+DA-IICT Student Research Excellence Award
+Objective
+Award
+Eligibility Criteria
+Selection Criteria and Process
+List of Awardees
+Objective:
+To recognize and celebrate the achievement of the student-led original research that has resulted in publication at a reputed journal or a leading conference.
+Award:
+Award comprises a certificate and plaque/medal. The award is presented by the Director annually (the day before the convocation ceremony each year) to the students who have published in top quality journals/conferences.
+Eligibility Criteria:
+All currently-enrolled DA-IICT students (UG and PG) and the graduated students who received their degrees in the previous academic year
+1
+are eligible; specifically,
+The UG students (the BTech ICT, BTech ICT with CS, the BTech in Math and Computing (MnC) or BTech EVD programs) up to one year after the completion of the program (e.g. for the annual award in January of 2025, the students of 2019-2023 batch, 2020-2024 batch, 2021-2025 batch, 2022-2026 batch, 2023-2027 batch and 2024-2028 batch are eligible).
+The PG students (any of the Master's Degree (MTech, MSc, MDes) or the PhD degree) up to one year after the completion of the program or award of the degree in case of PhD students. (e.g. for the annual award in January of 2025, the Masters students of 2021-2023 batch, 2022-2024 batch, 2023-2025 batch and 2024-2026 batch are eligible).
+The student will receive an award for each Q1 journal article (Q1 category journal, i.e., top 25 percentile category) and each conference (A*, A or B category) article that he or she has published
+provided
+the primary affiliation of the student in the published article is DA-IICT.
+--------------------------------------
+1
+This provision allows the students to apply for this award even if their paper submission is still not accepted for publication at the time of their graduation, provided it is published within one year after their graduation.
+.
+Selection Criteria and Process (for the convocation to be held in January 2025):
+The students will provide the information about all their eligible research publications
+with a publication date (as per DOI) between January 2024 to December 2024
+in a Google Form circulated by Dean Research. The form must be submitted by the deadline mentioned in the email from Dean Research’s office.
+The data collected in the Google Form is provided to the Resource Center for verification, specifically regarding the
+eligibility criteria
+(i) the student is
+an author with DA-IICT affiliation,
+(ii) the publication venue belongs to the Q1 category of journals, and the A*, A or B categories for conferences, and (iii) the date is in the year 2024.
+For the award eligibility, a journal paper has to be published at a journal with
+Scimago Journal ranking
+of Q1, and a conference paper has to be published at conferences with
+core.edu
+or
+Aminer
+rank of A*, A or B.
+All the students who meet the aforementioned
+Eligibility Criteria
+will be selected for the
+DA-IICT Student Research Excellence Award
+.
+The applicants will be informed about the date and venue of the award ceremony via email at least two weeks before the day of presentations (by the office of Dean-Research).
+The list of selected candidates will be shared with the Registrar's office and award ceremony arrangements will be planned accordingly. In case a student can not attend the ceremony due to any unforeseen circumstances, he/she can contact the Registrar office and collect the award at a later date.
+Name of the recipients of the
+DA-IICT Student Research Excellence Award
+along with other information such as publication details and academic program will be displayed under the 'List of Awardees' tab.
+List of Awardees for the Year 2024/25
+UG Programs
+Student Name
+Student ID
+Faculty Name
+Publ. Date
+Paper Title
+Publication Venue
+Authors
+DoI
+Arth J Shah
+202101154
+Hemant A. Patil
+Dec-24
+Shah, A. J., Chaudhari, H., & Patil, H. A, "Infant Cry Classification Using Modified Group Delay Cepstral Coefficients". In International Conference on Pattern Recognition (ICPR), Kolkata, India, 2024. Springer, LNCS, pp. 275-289, Vol. 15314.
+International Conference on Pattern Recognition (ICPR)
+Arth J. Shah, Hiya Chaudhari
+https://doi.org/10.1007/978-3-031-78341-8_18
+Arth J Shah
+202101154
+Hemant A. Patil
+Dec-24
+Shah, A. J., Suthar, M., & Patil, H. A, "Multi-Block U-Net for Wind Noise Reduction in Hearing Aids". In International Conference on Pattern Recognition (ICPR), Kolkata, India, 2024. Springer, LNCS, pp. 234-249, Vol. 15327.
+International Conference on Pattern Recognition (ICPR)
+Arth J. Shah
+https://doi.org/10.1007/978-3-031-78398-2_16
+Divya Patel
+202001420
+Sourish Dasgupta
+Nov-24
+Divya Patel, Pathik Patel, Ankush Chander, Sourish Dasgupta, and Tanmoy Chakraborty. 2024. Are Large Language Models In-Context Personalized Summarizers? Get an iCOPERNICUS Test Done!. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 16820–16842, Miami, Florida, USA. Association for Computational Linguistics.
+EMNLP 2024
+Divya Patel, Pathik Patel
+10.18653/v1/2024.emnlp-main.935
+Kandarp Devmurari
+202001052
+Manish Kumar
+Nov-24
+K. Devmurari, M. Kumar and K. P. Rajput, "DBDCC: Density based Distorted Circle Clustering for Energy Efficient Wireless Sensor Networks," 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), Washington, DC, USA, 2024, pp. 1-6, doi: 10.1109/VTC2024-Fall63153.2024.10758001. keywords: {Measurement;Wireless sensor networks;Energy consumption;Network topology;Simulation;Clustering algorithms;Throughput;Energy efficiency;Topology;Data communication;WSN;LEACH;DBDCC;DBSCAN;K-means;Fuzzy C-means;PSO;network lifetime;data throughput;energy efficiency},
+IEEE 100th Vehicular Technology Conference (VTC2024-Fall)
+Kandarp Devmurari
+10.1109/VTC2024-Fall63153.2024.10758001 (https://ieeexplore.ieee.org/document/10758001)
+Hiya Chaudhari
+202101047
+Hemant A. Patil
+Dec-24
+Shah, A. J., Chaudhari, H., & Patil, H. A, "Infant Cry Classification Using Modified Group Delay Cepstral Coefficients". In International Conference on Pattern Recognition (ICPR), Kolkata, India, 2024. Springer, LNCS, pp. 275-289, Vol. 15314.
+International Conference on Pattern Recognition (ICPR)
+Arth J. Shah, Hiya Chaudhari
+https://doi.org/10.1007/978-3-031-78341-8_18
+Pathik Patel
+202003002
+Sourish Dasgupta
+Nov-24
+Divya Patel, Pathik Patel, Ankush Chander, Sourish Dasgupta, and Tanmoy Chakraborty. 2024. Are Large Language Models In-Context Personalized Summarizers? Get an iCOPERNICUS Test Done!. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 16820–16842, Miami, Florida, USA. Association for Computational Linguistics.
+EMNLP
+Pathik Patel, Divya Patel
+https://doi.org/10.18653/v1/2024.emnlp-main.935
+Devdeep Shetranjiwala
+202001150
+Bhaskar Chaudhury
+09-10-2023 (Jan-24)
+Ghosh, Pratik, Bhaskar Chaudhury, Shishir Purohit, Vishv Joshi, Ashray Kothari, and Devdeep Shetranjiwala. "Deep learning assisted microwave-plasma interaction based technique for plasma density estimation." Journal of Physics D: Applied Physics 57, no. 1 (2024): 014001. https://doi.org/10.1088/1361-6463/acfdb6.
+Journal of Physics D: Applied Physics
+Pratik Ghosh, Bhaskar Chaudhury, Shishir Purohit, Vishv Joshi, Ashray Kothari and Devdeep Shetranjiwala
+10.1088/1361-6463/acfdb6
+PG Programs
+Student Name
+Student ID
+Faculty Name
+Publ. Date
+Paper Title
+Publication Venue
+Authors
+DoI
+Isha Motiyani
+202218015
+Sourish Dasgupta
+Nov-24
+Dasgupta, Sourish, Ankush Chander, Parth Borad, Isha Motiyani, and Tanmoy Chakraborty. "PerSEval: Assessing Personalization in Text Summarizers." arXiv preprint arXiv:2407.00453 (2024).
+TMLR
+Isha Motiyani, Parth Borad
+https://doi.org/10.48550/arXiv.2407.00453
+Utkarsh Pandya
+202111026
+Srimanta Mandal
+Dec-24
+Makhija, S., Mandal, S., Pandya, U., Chirakkal, S., Putrevu, D. (2025). PolSAR Image Classification Using Complex-Valued Squeeze and Excitation Network. In: Antonacopoulos, A., Chaudhuri, S., Chellappa, R., Liu, CL., Bhattacharya, S., Pal, U. (eds) Pattern Recognition. ICPR 2024. Lecture Notes in Computer Science, vol 15302. Springer, Cham. https://doi.org/10.1007/978-3-031-78166-7_18
+International Conference on Pattern Recognition (ICPR 2024)
+Shradha Makhija, Utkarsh Pandya
+10.1007/978-3-031-78166-7_18
+Arushi Srivastava
+202215003
+Hemant A. Patil
+Dec-24
+Purohit, R. M., Srivastava, A., & Patil, Hemant. A. FCHiFi-GAN: Aggrandizing Fast Convergence with Batchwise Normalization. In International Conference on Pattern Recognition (pp. 356-372). Springer, Cham.
+International Conference on Pattern Recognition
+Ravindrakumar M. Purohit, Arushi Srivastava
+10.1007/978-3-031-78119-3_25
+Ph.D. Program
+Student Name
+Student ID
+Faculty Name
+Publ. Date
+Paper Title
+Publication Venue
+Authors
+DoI
+Ravindrakumar M. Purohit
+202321002
+Hemant A. Patil
+Dec-24
+Purohit, R. M., Srivastava, A., & Patil, Hemant. A. FCHiFi-GAN: Aggrandizing Fast Convergence with Batchwise Normalization. In International Conference on Pattern Recognition (pp. 356-372). Springer, Cham.
+International Conference on Pattern Recognition
+Ravindrakumar M. Purohit, Arushi Srivastava
+10.1007/978-3-031-78119-3_25
+Riyanka Jena
+201921012
+Manik Lal Das
+6th August, 2024
+Jena, Riyanka, Priyanka Singh, Manoranjan Mohanty, and Manik Lal Das. "PP-PRNU: PRNU-based source camera attribution with privacy-preserving applications." Computing 106, no. 10 (2024): 3309-3333.
+Computing (Vienna/New York)
+Riyanka Jena
+https://doi.org/10.1007/s00607-024-01330-w
+Madhvi Ramrakhiyani
+201721011
+Mukesh Tiwari, V. Sunitha
+Nov-24
+Ramrakhiyani, M., Tiwari, M. & Sunitha, V. Influence of multiple spreaders through farthest first traversal. Appl Netw Sci 9, 70 (2024).
+Applied Network Science
+Madhvi Ramrakhiyani
+https://doi.org/10.1007/s41109-024-00676-6
+Aarushi Dhami
+201921008
+Yash Vasavada
+Apr-24
+Vasavada, Yash, Aarushi Dhami, and Jeffrey H. Reed. "A Low-Complexity Blind Iterative Approach for Receive-Side Hybrid Beamforming." IEEE Transactions on Communications, vol. 72, no. 9, pp. 5503-5516 (2024).
+IEEE Transactions on Communications
+Aarushi Dhami
+10.1109/TCOMM.2024.3388843
+Pooja Garg
+202021011
+Manjunath V Joshi, Vinay S Palaparthy
+04-01-2024 (March 2024)
+R. Saini, P. Garg, N. K. Chaudhary, M. V. Joshi, V. S. Palaparthy and A. Kumar, "Identifying the Source of Water on Plant Using the Leaf Wetness Sensor and via Deep Learning-Based Ensemble Method," in IEEE Sensors Journal, vol. 24, no. 5, pp. 7009-7017, 1 March1, 2024,
+IEEE Sensors Journal
+Pooja Garg
+doi:10.1109/JSEN.2023.3343574
+Deepti Saraswat
+201921013
+Manik Lal Das
+Dec-24
+SeFL: A Secure Privacy-Preserving Federated Learning.IEEE Globecom Conference
+IEEE GLOBECOM Conference
+Deepti Saraswat
+IEEE GLOBECOM Conference
+List of Awardees for the Year 2023/24
+UG Programs
+Student Name
+Student ID
+Faculty Name
+Publ. Date
+Paper Title
+Publication Venue
+Authors
+DoI
+Monil Charola
+201901119
+Hemant Patil
+20-08-2023
+Charola, M., Kachhi, A., Patil, H.A. (2023) Whisper Encoder features for Infant Cry Classification. Proc. INTERSPEECH 2023, 1773-1777
+INTERSPEECH
+Monil Charola, Aastha Kachhi, Hemant A. Patil
+10.21437/Interspeech.2023-1916
+Nemin Shah
+201901280
+Yash Vasavada
+16-09-2021
+Nemin Shah and Yash Vasavada, "Neural layered decoding of 5G LDPC codes", IEEE Communications Letters, vol. 25, no. 11, pp. 3590-3593, Nov. 2021.
+IEEE Communications Letters
+Nemin Shah, Yash Vasavada
+10.1109/LCOMM.2021.3113610
+Siddharth Rathod
+201901162
+Hemant Patil
+20-08-2023
+Rathod, Siddharth, Monil Charola, Akshat Vora, Yash Jogi, and Hemant A. Patil. "Whisper Features for Dysarthric Severity-Level Classification." Small 12, no. 768: 12.
+INTERSPEECH 2023
+Siddharth Rathod, Monil Charola, Akshat Vora, Yash Jogi, Hemant A. Patil
+10.21437/Interspeech.2023-1891
+Mihir Shirish Desai
+201801033
+Bhaskar Chaudhury
+09-11-2022
+M. Desai, P. Ghosh, A. Kumar and B. Chaudhury, "Deep-Learning Architecture-Based Approach for 2-D-Simulation of Microwave Plasma Interaction," in IEEE Transactions on Microwave Theory and Techniques, vol. 70, no. 12, pp. 5359-5368, Dec. 2022, doi: 10.1109/TMTT.2022.3217138.
+IEEE Transactions on Microwave Theory and Techniques
+Mihir Desai, Pratik Ghosh, Ahlad Kumar, Bhaskar Chaudhury
+https://doi.org/10.1109/TMTT.2022.3217138
+M.Tech. Program
+Student Name
+Student ID
+Faculty Name
+Publ. Date
+Paper Title
+Publication Venue
+Authors
+DoI
+Balwani Shivani Laxmanbhai
+202111022
+Saurabh Tiwari
+28-09-2023
+S. Balwani, S. Tiwari, S. Dasgupta and A. Sharma, "AutoReco: A Tool for Recommending Requirements for their Non-Conformance with Requirement Templates (RTs)," 2023 IEEE 31st International Requirements Engineering Conference (RE), Hannover, Germany, 2023, pp. 365-366, doi: 10.1109/RE57278.2023.00054.
+2023 IEEE 31st International Requirements Engineering Conference (RE)
+Shivani Balwani, Saurabh Tiwari, Sourish Dasgupta, Akhilesh Sharma
+10.1109/RE57278.2023.00054
+Prahar Pandya
+202011001
+Saurabh Tiwari
+09-11-2022
+Pandya, Prahar & Tiwari, Saurabh. (2022). CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review. 546-557. 10.1145/3540250.3549115
+ESEC/FSE 2022 (ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering)
+Prahar Pandya, Saurabh Tiwari
+10.1145/3540250.3549115
+Rahul Vansh
+202111035
+Sourish Dasgupta
+10-12-2023
+Rahul Vansh, Darsh Rank, Sourish Dasgupta, and Tanmoy Chakraborty. 2023. Accuracy is not enough: Evaluating Personalization in Summarizers. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 2582–2595, Singapore. Association for Computational Linguistics.
+EMNLP ( Empirical Methods in Natural Language Processing)
+Rahul Vansh, Darsh Rank, Sourish Dasgupta, Tanmoy Chakraborty
+10.18653/v1/2023.findings-emnlp.169
+Ph.D. Program
+Student Name
+Student ID
+Faculty Name
+Publ. Date
+Paper Title
+Publication Venue
+Authors
+DoI
+Urvi Oza
+201921009
+Pankaj Kumar
+05-04-2021
+Oza, Urvi, Sarangi Patel, and Pankaj Kumar. "Noveme-color space net for image classification." Intelligent Information and Database Systems: 13th Asian Conference, ACIIDS 2021, Phuket, Thailand, April 7–10, 2021, Proceedings 13. Springer International Publishing, 2021.
+ACIIDS 2021
+Urvi Oza, Sarangi Patel and Pankaj Kumar
+https://doi.org/10.1007/978-3-030-73280-6_42
+Miral Shah
+201621007
+Bhaskar Chaudhury
+07-12-2022
+Miral Shah, Bhaskar Chaudhury, Mainak Bandyopadhyay, and Arun Chakraborty, “Observation of double layer formation in low-temperature E × B plasma based negative ion sources,” Phys. Plasmas, vol. 30, no. 010701, p. 1, 2023, doi: 10.1063/5.0126614.
+Physics of Plasmas
+Miral Shah, Bhaskar Chaudhury, Mainak Bandyopadhyay, and Arun Chakraborty
+10.1063/5.0126614
+Kamlesh S Patle
+202121017
+Vinay Palaparthy
+01-09-2022
+Patle, Kamlesh S., Biswajit Dehingia, Hemen Kalita, and Vinay S. Palaparthy. "Highly sensitive graphene oxide leaf wetness sensor for disease supervision on medicinal plants." Computers and Electronics in Agriculture 200 (2022): 107225.
+Computers and Electronics in Agriculture
+Kamlesh S Patle, Biswajit Dehingia, Hemen Kalita, Vinay S Palaparthy
+https://doi.org/10.1016/j.compag.2022.107225
+Pratik Ghosh
+201721010
+Bhaskar Chaudhury
+09-10-2023
+Pratik Ghosh, Bhaskar Chaudhury, Shishir Purohit, Vishv Joshi, Ashray Kothari, Devdeep Shetranjiwala, "Deep Learning assisted microwave-plasma interaction based technique for plasma density estimation", Journal of Physics D: Applied Physics 57, no. 1 (2023)
+Journal of Physics D: Applied Physics
+Pratik Ghosh, Bhaskar Chaudhury, Shishir Purohit, Vishv Joshi, Ashray Kothari, Devdeep Shetranjiwala
+10.1088/1361-6463/acfdb6
+Surupendu Gangopadhyay
+201921002
+Prasenjit Majumder
+20-08-2022
+Gangopadhyay, Surupendu, and Prasenjit Majumder. "Text representation for direction prediction of share market." Expert Systems with Applications 211 (2023): 118472.
+Expert Systems with Applications
+Surupendu Gangopadhyay, Prasenjit Majumder
+https://doi.org/10.1016/j.eswa.2022.118472
+Twinkle Bhavsar
+201921001
+Abhishek Jindal
+06-12-2022
+T. Bhavsar and A. Jindal, "On Reducing the Outage Probability in VFD-NOMA With Limited CSI at Source," in IEEE Communications Letters, vol. 27, no. 2, pp. 507-511, Feb. 2023, doi: 10.1109/LCOMM.2022.3227129.
+IEEE Communications Letters
+Twinkle Bhavsar, Dr. Abhishek Jindal
+10.1109/LCOMM.2022.3227129
+Contact Us
+Text
+DA-IICT, DA-IICT Road,
+Gandhinagar 382 007, Gujarat (India)
+Text
+For Admission Enquiries
+Text
+(+91) 079 - 6826 1700
+Text
+(+91) 079 - 6826 1710
+Text
+info[at]daiict[dot]ac[dot]in
+For Admissions
+Voice Call:
+Text
+079 69 08 08 08
+Support Ticket:
+Click here
+Follow Us On
+facebook
+twitter
+Instagram
+Youtube
+LinkedIn
+blogIcon
+Admissions
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral Program
+displayNone
+Scholarships
+Research
+displayNone
+Research Overview
+displayNone
+Deans Office
+displayNone
+Areas
+displayNone
+Sponsored Projects
+displayNone
+Faculty Achievements
+displayNone
+Publications
+displayNone
+Theses and Reports
+Academics
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral
+displayNone
+Stakeholder Feedback
+People
+displayNone
+Faculty
+displayNone
+Staff
+displayNone
+Doctoral Scholars
+NAAC
+displayNone
+NAAC Cycle 2 SSR Submitted: 2023
+displayNone
+SSR & Evaluative Reports Addendum 2017
+displayNone
+displayNone
+SSR 2015
+displayNone
+displayNone
+Evaluative Report 2015
+displayNone
+CoE, Government of Gujarat
+displayNone
+Application submitted
+displayNone
+Audited Accounts
+displayNone
+Meeting of the Governing Bodies
+NIRF
+displayNone
+INDIA Ranking 2025 DCS Submitted
+INDIA Ranking 2020 DCS Submitted
+Other Links
+displayNone
+UGC proforma/Mandatory disclosure
+displayNone
+displayNone
+e-Procurement
+displayNone
+displayNone
+Prof. S.C. Sahasrabudhe - A Memoir
+displayNone
+Holidays 2025
+displayNone
+displayNone
+Ecampus
+displayNone
+displayNone
+Intranet
+displayNone
+displayNone
+Courses
+displayNone
+displayNone
+Capacity Development and Skills Enhancement Initiatives
+displayNone
+Parents
+displayNone
+CEP
+displayNone
+DCEI
+displayNone
+displayNone
+Committees
+displayNone
+displayNone
+Anti-Ragging Committee
+displayNone
+displayNone
+DA-IICT Lecture Series
+displayNone
+Synapse
+displayNone
+displayNone
+Concours
+displayNone
+displayNone
+Tree Survey
+displayNone
+Newsletter
+displayNone
+Directory
+displayNone
+Photo Gallery
+Group Website
+Choose a Group Website:
+----------- Group Websites ------------
+Reliance Group
+-------------------------------------
+Reliance Communications
+Reliance Digital TV
+Global Cloud Xchange
+Reliance Globalcall
+-------------------------------------
+Reliance Capital
+RARCL
+Reliance Securities
+Reliance PMS
+Reliance General Insurance
+Reliance Life Insurance
+Reliance Commercial Finance
+Reliance Mutual Fund
+-------------------------------------
+Reliance Infrastructure
+Reliance Energy
+Reliance Power
+Reliance Roads
+Reliance Cements
+Reliance Energy Trading
+Mumbai Metro One
+Nanded Airport
+CGRF
+BSES Delhi
+-------------------------------------
+Reliance Entertainment
+Reliance Big Entertainment
+Reliance Broadcast Network
+BIG Productions
+Reliance Home Video & Games
+Reliance Animation
+Reliance Synergy
+BIG 92.7 FM
+BIG ADDA
+BIG Flix
+Talent House
+Reliance Games
+Zapak
+-------------------------------------
+Kokilaben Hospital
+KDA Nursing College
+Harmony
+DAIICT
+Footer Menu 3
+Feedback
+Copyright Policy
+Disclaimer
+Sitemap
+Copyright © 2021 DA-IICT, Gandhinagar, Gujarat, India
+Visitors:
+Last Updated: 23-05-2025
+Share it
+Back to Top

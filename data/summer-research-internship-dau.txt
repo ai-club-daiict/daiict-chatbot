@@ -1,0 +1,507 @@
+URL: https://www.daiict.ac.in/summer-research-internship-dau#wrapper
+
+Summer Research Internship at DAU | Dhirubhai Ambani Institute of Information and Communication Technology
+Admissions Enquire Now!
+displayNone
+displayNone
+Accessibility Menu
+Contrast View
+Text Resize
+Skip to Main Content
+Screen Reader Access
+Pause Animations
+Pause
+Cursor
+Admissions 2025 Open
+|
+Summer Research Internship at DAU
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+PG Admissions 2023 Announced
+|
+Ph.D. Admissions 2023
+Announced
+| Admission Helpline - Voice call: 080 66 91 91 80
+M.Tech.
+(EC) - last date 28
+th
+April 2022
+Admission Helpline - Voice call: 080 66 91 91 80
+UG Admissions - All India
+Category - Admission Status Announced
+Top Right Side Menu
+DCEI
+CEP
+NAAC
+NIRF
+NEP 2020
+Alumni
+Alumni Document Service
+Grievance Redressal
+ICC
+Policies
+Tenders
+Contact
+logo
+Dhirubhai Ambani Institute of Information and Communication Technology
+A Private University
+Established by The State Government of Gujarat Act
+search
+search
+Search
+Daiict Menu
+About Us
+Governance
+Founder
+President
+Board of Governors
+Director
+Academic Council
+Finance Committee
+Deans
+Dean (Faculty)
+Dean (Academic Programs)
+Dean (Research)
+Dean (Students)
+Executive Registrar
+IQAC
+Organogram
+Academics
+Board Of Studies
+Programs of Study
+UG Programs
+PG Programs
+Doctoral Program
+Academic Areas
+Dean's Office
+Faculty
+Academic Calendar
+Courses at Moodle
+Examination Department
+Orientation Program
+Research
+Research Overview
+Dean's Office
+Areas
+AI, ML and Data Science
+Algorithms and Theory of Computation
+Communications and Signal Processing
+Humanities, Social Sciences and Design
+Physics and Mathematical Sciences
+Software Systems and Networking
+VLSI & Embedded Systems
+Sponsored Projects
+Noteworthy Contributions
+Accomplishments
+Outreach and Contributions
+Publications
+Theses and Reports
+IRB
+Student Research Award
+People
+Faculty
+Staff
+Doctoral Scholars
+Parents
+Alumni
+Students
+Student Body Government
+Student Committees
+Student Clubs
+IEEE Student Branch
+Dean's Office
+Achievements
+Admissions
+Why choose DA-IICT?
+Undergraduate Admissions
+Postgraduate Admissions
+Ph.D. Admissions
+Scholarships
+Infrastructure
+Resource Centre
+ICT Infrastructure
+Lecture Complex
+Laboratory Complex
+Halls of Residence
+Food Court
+Medical Facility
+Campus Security
+Sports Complex
+Placements
+About Placements
+Placement News & Updates
+Careers
+Faculty Positions
+Faculty on Tenure
+Faculty on Contract
+Postdoc Positions
+Project Positions
+Non-Teaching Staff Positions
+Summer Research Internship at DAU
+Breadcrumb
+Home
+Summer Research Internship at DAU
+DAU announces Summer Research Internship for non DAU students during May to July 2025.
+Student Eligibility
+Currently enrolled UG, PG and PhD students in good academic standing at accredited national institutions are eligible to apply (students currently enrolled at DAU are not eligible for this program).
+Specific eligibility criteria, such as minimum CPI, completion of specific coursework and prerequisites, the degree program, etc. will be determined by individual DAU faculty mentor.
+Internship Structure and Duration
+The SRI Program will typically run for a period of eight weeks between May and July. Specific dates each year will be determined by a faculty mentor.
+Interns are expected to commit to a minimum of 40 hours per week to their research project, as agreed upon with their faculty mentor.
+The research project will typically require the student to engage in various aspects of the research process, such as literature review, data collection, data analysis, and potentially manuscript preparation or presentation.
+Stipend and Housing
+The intern shall receive a stipend of Rs. 1000 per week for a maximum of eight weeks.
+The intern shall reside on the DAU campus. The hostel accommodation charges shall be waived.
+The Institute will provide a travel allowance of up to INR 3000. The selected candidate will need to submit the original receipts/tickets of travels to/from DAU during the internship period.
+Meals and other expenses shall be the responsibility of the intern.
+Application Process
+Interested students shall directly submit a formal application to the DAU faculty mentor through email.
+The application shall include:
+The student’s resume or curriculum vitae highlighting their academic achievements and relevant experiences.
+A statement of interest outlining their research interests, relevant coursework, and reasons for applying to the specific internship(s).
+No objection certificate from their parent Institute.
+Optionally, letters of recommendation.
+Summer Internship Projects 2025 @ DAU
+Faculty Name
+Project Name
+Project Details
+Email
+Prof. Abhishek Jindal
+Reinforcement learning based optimisation of LLMs
+With the success of DeepSeek, it is imperative to study RL for optimising LLMs. The work involves reviewing recent publications in the area and developing a working model.
+abhishek_jindal[at]daiict[dot]ac[dot]in
+Prof. Abhishek Jindal
+Reinforcement learning for high frequency trading
+The integration of RL and LSTM can offer significant improvement in high frequency trading systems. The work involves developing a working system in this domain.
+abhishek_jindal[at]daiict[dot]ac[dot]in
+Prof. Abhishek Jindal
+Graph neural networks for cybersecurity
+GNNs can help in fraud and spam detection. The work involves studying GNNs in the broader context of cybersecurity.
+abhishek_jindal[at]daiict[dot]ac[dot]in
+Prof. Biswajit Mishra
+Digital IC Design
+ASIC Design using Digital CMOS
+biswajit_mishra[at]daiict[dot]ac[dot]in
+Prof. Biswajit Mishra
+Embedded Hardware and Software and App Development for Healthcare Applications
+Project involves working on further developing the app and extending an already existing embedded system for healthcare application.
+biswajit_mishra[at]daiict[dot]ac[dot]in
+Prof. Pankaj Kumar
+Solar Harvesting
+Solar harvesting using metasurface design
+pankaj_kumar[at]daiict[dot]ac[dot]in
+Prof. Vinay S Palaparthy
+Sensor interface electronics
+To design generic board to detect change in resistance/capacitance of the VOC sensor
+vinay_shrinivas[at]daiict[dot]ac[dot]in
+Prof. Vinay S Palaparthy
+Fabrication of RRAM/Memristors
+To fabricate the Memristors on the flexible substrates
+vinay_shrinivas[at]daiict[dot]ac[dot]in
+Prof. Vinay S Palaparthy
+Nanomaterial synthesis
+Synthesis of 2D nanomaterials for agriculture applications
+vinay_shrinivas[at]daiict[dot]ac[dot]in
+Prof. Yash Vasavada
+Development of a machine learning-based framework for real-time anomaly detection in electricity consumption data
+Collect the electricity consumption data from existing electricity utility companies and available datasets worldwide, and develop advanced analytical tools using machine learning and deep learning for obtaining the decisions regarding anomalous usage patterns including fraudulent activities
+yash_vasavada[at]daiict[dot]ac[dot]in
+Prof. Yash Vasavada
+MIMO Precoding Schemes for Next Generation Wireless Communication Systems
+In this project, the summer intern will focus on MIMO algorithms and detection mechanisms for advancing the state of the art of wireless communications
+yash_vasavada[at]daiict[dot]ac[dot]in
+Prof. Sanjay Srivastava
+Prof. Manish Chaturvedi
+Modelling and Simulation of Walk and Intelligent Feeder Service Based Last Mile Connectivity to Public transport
+Last mile connectivity refers to the critical link that connects commuters from their homes or workplaces to the nearest public transportation hubs. In this project, an intelligent feeder service is to be designed to enhance last mile connectivity to public transport. An online algorithm is to be developed to recommend suitable boarding junctions for commuters to join shared rides.
+Reference Link
+sanjay_srivastava[at]daiict[dot]ac[dot]in
+Prof. Sanjay Srivastava
+Prof. Manish Chaturvedi
+Two-wheeler driving pattern analysis using mobile phone sensors
+The Advanced Driver Assistance System (ADAS) in cars is used to improve the safety of drivers. However, limited or no ADAS is available for two-wheeler (2W) and three-wheeler (3W) vehicle drivers who represent 80% of the driver population in India. This project aims to design a wearable device / mobile phone based vehicle independent driver assistance system.
+Reference Link
+sanjay_srivastava[at]daiict[dot]ac[dot]in
+Prof. Tapas Kumar Maiti
+Embedded AI/ML
+Integration of artificial intelligence (AI) and machine learning (ML) algorithms directly into low-cost embedded systems—small-scale, resource-constrained devices such as microcontrollers, sensors, or edge devices. Instead of sending data to the cloud for processing, these systems can analyze data locally in real time.
+tapas_kumar[at]daiict[dot]ac[dot]in
+Prof. Tapas Kumar Maiti
+Robotics and Automation Systems
+Robotics and automation technologies create powerful, autonomous systems capable of operating efficiently and securely at the edge. Key tools include ROS, TensorFlow Lite, TinyML, and platforms like NVIDIA Jetson and ESP32.
+tapas_kumar[at]daiict[dot]ac[dot]in
+Prof. Tapas Kumar Maiti
+IoT and Edge Computing with End-to-End Solution
+IoT connects devices to collect and exchange real-time data, while Edge Computing processes this data locally, reducing latency and bandwidth use. Together, they enable faster decision-making and optimize operations. These devices are used across industries like smart homes, healthcare, and manufacturing.
+tapas_kumar[at]daiict[dot]ac[dot]in
+Prof. Sudip Bera
+On the domination number of various algebraic graphs
+The examination of graphs associated with various algebraic structures has gained significance in the past twenty years. The study of these graphs offers multiple advantages. Firstly, it allows us to categorize the resulting graphs. Secondly, it enables us to identify algebraic structures that possess isomorphic graphs. Lastly, it helps us understand the interdependence between algebraic structures and their corresponding graphs. One of the most important graph parameter is domination number of graph. The domination number of a graph, representing the minimum number of vertices needed to "dominate" all other vertices, has applications in facility location, network design, and social network analysis. It helps optimize resource allocation, identify key individuals or nodes, and ensure network connectivity or coverage. In this project we want to determine the domination number of some algebraic graphs.
+sudip_bera[at]daiict[dot]ac[dot]in
+Prof. Rajib Lochan Das
+Adaptive Filters for Graph Signal Processing
+To design adaptive filters like LMS, NLMS, RLS, PNLMS, Conjugate Gradient algorithm etc., to analyze the graph signals
+rajib_das[at]daiict[dot]ac[dot]in
+Prof. Rajib Lochan Das
+Identification of Nonlinear Sytems using Adaptive Filtering and Machine Learning
+Investigating hybrid approaches that combine adaptive filtering techniques with machine learning to improve prediction accuracy for nonlinear systems identification.
+rajib_das[at]daiict[dot]ac[dot]in
+Prof. Manish Kumar
+UAV-aided Vehicular Ad-Hoc Networks
+This Project involves study of Blockchain-enabled novel routing protocol for VANETs leveraging UAV-assistance as dynamic relays.
+manish_kumar[at]daiict[dot]ac[dot]in
+Prof. Manish Kumar
+Optimization in UAV-IoT Networks
+This Project involves working on approaches for energy efficient optimized path planning for data collection in UAV-IoT Networks.
+manish_kumar[at]daiict[dot]ac[dot]in
+Prof. Madhukant Sharma
+Fractional Differential Equations and their applications
+The project has the following objectives:
+1.
+To understand the mathematical foundations of fractional calculus and fractional differential equations.
+2.
+To explore numerical methods for solving FDEs.
+3.
+To investigate various applications of FDEs in real-world scenarios.
+madhukant_sharma[at]daiict[dot]ac[dot]in
+Prof. Rutu Parekh
+Chip Design for Space Application
+The student will learn analog mixed signal design flow for circuits and systems required in space applications. They will use Cadence Environment to carry out the simulations.
+rutu_parekh[at]daiict[dot]ac[dot]in
+Prof. Rutu Parekh
+Wireless long distance communication for health care / agriculture / military applications
+The student will be required to build prototypes that will involve long distance communication in absence of cellular network for commercial applications. They will be first trained on the existing system and then further guided to develop the prototypes.
+rutu_parekh[at]daiict[dot]ac[dot]in
+Prof. Rutu Parekh
+Design and simulation of nanoelectronics circuits
+The student will be required to learn the physics and applications of emerging devices, logic and memory. Based on the knowledge gained, application based circuits shall be designed and simulated.
+rutu_parekh[at]daiict[dot]ac[dot]in
+Prof. Gopinath Panda
+Economic analysis of Vacation Queueing Models with Impatient Customers
+Our emphasis will be on the economic implications of vacation queueing models in service systems characterized by customer impatience. Vacation queueing models serve to analyze scenarios in which servers take periodic breaks (or vacations), resulting in interruptions to service availability. In practical applications, such breaks can arise in various settings, including customer service desks, healthcare facilities, manufacturing processes, and telecommunications networks.
+We will explore the following aspects of this project
+:
+1.
+The impact of customer decision-making, including behaviors such as balking (leaving without  joining the queue) and reneging (abandoning the queue after a period of waiting).
+2.
+An analysis of how scheduled service interruptions influence waiting times, customer satisfaction, and overall revenue for managers.
+3.
+An evaluation of the economic trade-offs between maintaining continuous service and allowing periodic breaks to enhance operational efficiency, which involves assessing key performance metrics such as expected waiting time, queue length, and service utilization.
+4.
+Recommendations for businesses to minimize losses from customer impatience while balancing workforce efficiency and profitability, emphasizing the importance of effective queue management for cost efficiency and customer retention.
+gopinath_panda[at]daiict[dot]ac[dot]in
+Prof. Gopinath Panda
+Blockchain Queueing, Fuzzy Queueing System, Queueing Estimation
+Blockchain-based queueing systems enhance decentralized service queues by utilizing smart contracts and secure transaction validation. We will examine the following aspects: reducing delays in validation, optimizing job scheduling in blockchain networks, and ensuring fair and secure queuing for resources.
+A fuzzy queueing system integrates uncertainty into queue management by employing fuzzy logic instead of relying on deterministic values. This approach is particularly effective in handling imprecise or variable arrival rates and service times. It is applicable in various fields, including healthcare, traffic control, and manufacturing, where conditions can change dynamically. By utilizing this system, it becomes possible to deliver improved predictions even when real-time data is inconsistent.
+Queueing estimation involves forecasting expected wait times, service efficiency, and resource allocation in various fields like customer service, call centers, cloud computing, and logistics. We will be using mathematical techniques such as:
+Markov Chains for Probabilistic Behavior Analysis
+Monte Carlo Simulation for Uncertainty Modeling
+Neural Networks & AI for Adaptive Queue Predictions
+gopinath_panda[at]daiict[dot]ac[dot]in
+Prof. Gopinath Panda
+Queueing games in Healthcare & Communication systems
+In this study, we will utilize queueing game models to analyze healthcare and communication systems, with the objective of optimizing resource allocation and user behavior in high-demand scenarios. Our emphasis will be on examining how customers make strategic decisions regarding queueing during periods of congestion.
+We will apply Nash equilibrium and strategic interaction models under four different information scenarios to forecast queueing behaviors and develop effective intervention strategies.
+gopinath_panda[at]daiict[dot]ac[dot]in
+Prof. Sourish Dasgupta
+User Persona-Aware Evaluation of Large Language Model Safety
+In modern deployments, Large Language Models (LLMs) have demonstrated remarkable prowess across diverse applications, yet their safety remains a pressing concern, particularly as these models interact with users of varied backgrounds, preferences, and risk profile. However, most existing safety‐evaluation benchmarks—such as SafetyBench—treat all users homogenously, ignoring how different user personas may alter a model’s vulnerability to harmful outputs. Concurrently, advances in persona‐aware personalization illustrate that modeling user preferences and behaviors can meaningfully tailor LLM interactions. This project proposes to bridge these domains by developing a User Persona–Aware Evaluation Framework for LLM safety, enabling nuanced assessment of model risks across a spectrum of realistic user profiles. Through constructing representative persona templates, designing persona‐sensitive safety tests, and integrating robust metrics, our framework will drive the next generation of safety evaluations that reflect the diversity of real‐world users.
+sourish_dasgupta[at]daiict[dot]ac[dot]in
+Contact Us
+Text
+DA-IICT, DA-IICT Road,
+Gandhinagar 382 007, Gujarat (India)
+Text
+For Admission Enquiries
+Text
+(+91) 079 - 6826 1700
+Text
+(+91) 079 - 6826 1710
+Text
+info[at]daiict[dot]ac[dot]in
+For Admissions
+Voice Call:
+Text
+079 69 08 08 08
+Support Ticket:
+Click here
+Follow Us On
+facebook
+twitter
+Instagram
+Youtube
+LinkedIn
+blogIcon
+Admissions
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral Program
+displayNone
+Scholarships
+Research
+displayNone
+Research Overview
+displayNone
+Deans Office
+displayNone
+Areas
+displayNone
+Sponsored Projects
+displayNone
+Faculty Achievements
+displayNone
+Publications
+displayNone
+Theses and Reports
+Academics
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral
+displayNone
+Stakeholder Feedback
+People
+displayNone
+Faculty
+displayNone
+Staff
+displayNone
+Doctoral Scholars
+NAAC
+displayNone
+NAAC Cycle 2 SSR Submitted: 2023
+displayNone
+SSR & Evaluative Reports Addendum 2017
+displayNone
+displayNone
+SSR 2015
+displayNone
+displayNone
+Evaluative Report 2015
+displayNone
+CoE, Government of Gujarat
+displayNone
+Application submitted
+displayNone
+Audited Accounts
+displayNone
+Meeting of the Governing Bodies
+NIRF
+displayNone
+INDIA Ranking 2025 DCS Submitted
+INDIA Ranking 2020 DCS Submitted
+Other Links
+displayNone
+UGC proforma/Mandatory disclosure
+displayNone
+displayNone
+e-Procurement
+displayNone
+displayNone
+Prof. S.C. Sahasrabudhe - A Memoir
+displayNone
+Holidays 2025
+displayNone
+displayNone
+Ecampus
+displayNone
+displayNone
+Intranet
+displayNone
+displayNone
+Courses
+displayNone
+displayNone
+Capacity Development and Skills Enhancement Initiatives
+displayNone
+Parents
+displayNone
+CEP
+displayNone
+DCEI
+displayNone
+displayNone
+Committees
+displayNone
+displayNone
+Anti-Ragging Committee
+displayNone
+displayNone
+DA-IICT Lecture Series
+displayNone
+Synapse
+displayNone
+displayNone
+Concours
+displayNone
+displayNone
+Tree Survey
+displayNone
+Newsletter
+displayNone
+Directory
+displayNone
+Photo Gallery
+Group Website
+Choose a Group Website:
+----------- Group Websites ------------
+Reliance Group
+-------------------------------------
+Reliance Communications
+Reliance Digital TV
+Global Cloud Xchange
+Reliance Globalcall
+-------------------------------------
+Reliance Capital
+RARCL
+Reliance Securities
+Reliance PMS
+Reliance General Insurance
+Reliance Life Insurance
+Reliance Commercial Finance
+Reliance Mutual Fund
+-------------------------------------
+Reliance Infrastructure
+Reliance Energy
+Reliance Power
+Reliance Roads
+Reliance Cements
+Reliance Energy Trading
+Mumbai Metro One
+Nanded Airport
+CGRF
+BSES Delhi
+-------------------------------------
+Reliance Entertainment
+Reliance Big Entertainment
+Reliance Broadcast Network
+BIG Productions
+Reliance Home Video & Games
+Reliance Animation
+Reliance Synergy
+BIG 92.7 FM
+BIG ADDA
+BIG Flix
+Talent House
+Reliance Games
+Zapak
+-------------------------------------
+Kokilaben Hospital
+KDA Nursing College
+Harmony
+DAIICT
+Footer Menu 3
+Feedback
+Copyright Policy
+Disclaimer
+Sitemap
+Copyright © 2021 DA-IICT, Gandhinagar, Gujarat, India
+Visitors:
+Last Updated: 23-05-2025
+Share it
+Back to Top
