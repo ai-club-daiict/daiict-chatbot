@@ -1,0 +1,806 @@
+URL: https://www.daiict.ac.in/btech-honours-ict-minor-computational-science
+
+B.Tech. (Honours) in ICT with minor in Computational Science | Dhirubhai Ambani Institute of Information and Communication Technology
+Admissions Enquire Now!
+displayNone
+displayNone
+Accessibility Menu
+Contrast View
+Text Resize
+Skip to Main Content
+Screen Reader Access
+Pause Animations
+Pause
+Cursor
+Admissions 2025 Open
+|
+Summer Research Internship at DAU
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+PG Admissions 2023 Announced
+|
+Ph.D. Admissions 2023
+Announced
+| Admission Helpline - Voice call: 080 66 91 91 80
+M.Tech.
+(EC) - last date 28
+th
+April 2022
+Admission Helpline - Voice call: 080 66 91 91 80
+UG Admissions - All India
+Category - Admission Status Announced
+Top Right Side Menu
+DCEI
+CEP
+NAAC
+NIRF
+NEP 2020
+Alumni
+Alumni Document Service
+Grievance Redressal
+ICC
+Policies
+Tenders
+Contact
+logo
+Dhirubhai Ambani Institute of Information and Communication Technology
+A Private University
+Established by The State Government of Gujarat Act
+search
+search
+Search
+Daiict Menu
+About Us
+Governance
+Founder
+President
+Board of Governors
+Director
+Academic Council
+Finance Committee
+Deans
+Dean (Faculty)
+Dean (Academic Programs)
+Dean (Research)
+Dean (Students)
+Executive Registrar
+IQAC
+Organogram
+Academics
+Board Of Studies
+Programs of Study
+UG Programs
+PG Programs
+Doctoral Program
+Academic Areas
+Dean's Office
+Faculty
+Academic Calendar
+Courses at Moodle
+Examination Department
+Orientation Program
+Research
+Research Overview
+Dean's Office
+Areas
+AI, ML and Data Science
+Algorithms and Theory of Computation
+Communications and Signal Processing
+Humanities, Social Sciences and Design
+Physics and Mathematical Sciences
+Software Systems and Networking
+VLSI & Embedded Systems
+Sponsored Projects
+Noteworthy Contributions
+Accomplishments
+Outreach and Contributions
+Publications
+Theses and Reports
+IRB
+Student Research Award
+People
+Faculty
+Staff
+Doctoral Scholars
+Parents
+Alumni
+Students
+Student Body Government
+Student Committees
+Student Clubs
+IEEE Student Branch
+Dean's Office
+Achievements
+Admissions
+Why choose DA-IICT?
+Undergraduate Admissions
+Postgraduate Admissions
+Ph.D. Admissions
+Scholarships
+Infrastructure
+Resource Centre
+ICT Infrastructure
+Lecture Complex
+Laboratory Complex
+Halls of Residence
+Food Court
+Medical Facility
+Campus Security
+Sports Complex
+Placements
+About Placements
+Placement News & Updates
+Careers
+Faculty Positions
+Faculty on Tenure
+Faculty on Contract
+Postdoc Positions
+Project Positions
+Non-Teaching Staff Positions
+B.Tech. (Honours) in ICT with minor in Computational Science
+Breadcrumb
+Home
+B.Tech. (Honours) in ICT with minor in Computational...
+Application Process
+displayNone
+Program Overview
+displayNone
+Program Structure
+DA-IICT launched the unique four-year undergraduate program leading to the degree of B.Tech. (Honours) in ICT with minor in Computational Science from 2013-14 academic session.
+The ICT embodies the convergence of Computer and Communication systems and has obtained wide acceptance as a distinct discipline. It is also expected that ICT graduates would enjoy a special niche only if they have certain performance capabilities not found in conventional CSE and/or ECE graduates. Logically this convergence takes place at the systems level, but at the same time it is necessary to accept a certain level of granularity as one goes down to the level of circuits, devices and materials. All programs are designed to operate on a semester-based framework that follows choice-based credit system.
+Computational science involves use of mathematical models, numerical methods, quantitative analysis techniques, advanced computing capabilities and IT knowledge to understand and solve complex science, engineering and social problems aimed in improving products, processes, and work-flows. The institute started this program in the area of Computational Science to impart the necessary knowledge and insight to the students to build computational models to understand, analyze and address fundamental problems in the areas of societal importance.
+The minor in CS program is focused on two main lines – theoretical learning and practical implementation. The students must take core/group-elective courses in the areas of Mathematics, Physics, Numerical and Computational Methods, Modeling and Simulation, High Performance Computing, Parallel Programming, Data analysis and Visualization. The electives are further designed to sharpen this skill-set by providing domain knowledge in interdisciplinary areas ranging from engineering to biological applications.
+The B.Tech. (Honours) in ICT with minor in Computational Science requires a student to complete additional 18 credits (four courses) in the core and elective components of Computational Science in addition to the B.Tech. in ICT program requirement.
+Programme Outcomes (POs)
+PO No.
+Programme Outcomes
+PO1
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2
+Problem analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences
+PO3
+Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO6
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+The Programme Specific Outcomes (PSOs) set the following goal:
+After the successful completion of the B.Tech. (Honours) in ICT with minor in Computational Science programme, students will have:
+PSO No.
+Program Specific Outcomes (PSOs)
+PSO1
+To apply the theoretical concepts of computer engineering and practical knowledge in analysis, design and development of computing systems and interdisciplinary applications.
+PSO2
+Develop system solutions involving both hardware and software modules
+PSO3
+To work as a socially responsible professional by applying ICT principles in real-world problems.
+Program Outcomes (POs) & Course Outcomes (COs) of The Program
+Syllabus of The Program
+Program Structure
+The course structure of the curriculum is broadly classified into four categories.
+Foundation or Core Courses:
+Set of compulsory courses taken by every student for first five semesters. These courses are from the technical areas of Computer Science and Information Technology, Electronics and Communication, as well as courses in Humanities, Mathematics and Basic Sciences.
+Elective Courses:
+These courses add to both, the technical strength and humanities and social science skills of the program. The students can choose the elective courses from the available ones from fifth semester onwards. The elective courses are grouped into the following categories.
+ICT Electives
+Technical Electives
+Humanities and Social Sciences Electives
+Science Electives
+Open Electives
+Internships and BTech Projects :
+Students will do a rural internship during the third semester winter break at NGO or Government Organization. The students will do an industrial or research internship during the summer break in the end of their 6th semester. Finally the student will take a semester long on-campus project (BTP) or the off-campus project – Industrial Training Project (ITP).
+Co-curricular Activities and Exploration Project:
+Co-curricular activities are non-class activities like sports, cultural and technical club activities. These courses run over the first four semesters and are graded Pass/Fail.
+Exploration projects allow students to explore their surroundings to identify interesting problems that admit a design based and/or hardware based solution and make such a product by leveraging the introduction to ICT skills learnt in the first semester. Students are expected to work in groups of 8 to 10 under a faculty mentor over two semesters - second and third semester. This course will be graded on a Pass/Fail basis.
+A unique feature of the program is the mandatory rural internship, which is expected to give the student a feel of his/her social milieu and is typically carried out with an NGO and Govt. organizations. The rural internship is offered in the Winter break after the 3rd semester. After the completion of foundation courses, the student is required to take a 6-8 week mandatory industrial/research internship, which is offered in the summer break after the 6th semester. The student has a choice of taking an industrial internship or a research internship depending on his/her career goals. The student is required to take at least a semester long BTech project (BTP), during which he/she is required to demonstrate his/her ability to learn current areas of research and/or industrial interest. Furthermore, a student has option to do BTP as on-campus or off-campus mode, where the on-campus mode allows the student to explore his/her research interest under the supervision of a faculty, whereas the off-campus mode allows the student in getting exposure to industry and/or other R&D organizations/universities.
+Most of the foundation courses are offered in the first four semesters and a part of the fifth semester. These courses are from the technical areas of Computer Science and Information Technology, Electronics and Communication, as well as courses in Humanities, Mathematics and Basic Sciences. In the remaining 3 and a half semesters, students take elective courses and do internships and projects.
+The curriculum accommodates 166 credits, out of which 147 credits for courses and 19 credits for internships and project work. In addition, there are 6 credits for Co-curricular Activities courses and Exploratory Projects. Out of the 147 required coursework credits, 108 credits are allocated to compulsory courses (Foundation courses) and 39 credits are allocated to four kinds of electives (12 credits are allocated to ICT electives, 12 credits to Technical electives, 6 credits to Science electives, 3 credits to HASS elective and 6 credits to Open electives), which the student can choose according to his/her inclination and interest.
+Semester-wise course sequence
+Each course is associated with a fixed number of credits. Credits are awarded on an L-T-P-C system (C=L+T+P/2) per semester, that is, the number of contact hours for Lectures (L), Tutorials (T) and Practical (P) in a week. Nominally, since a semester has around 13–14 weeks of classes, therefore, a 3
+credit lecture course would amount to approximately 40 lecture hours in a semester.
+Semester I
+Semester I
+L-T-P-C
+Introduction to ICT
+×
+Introduction to ICT
+This course is designed to provide students a contextual understanding of different facets of ICT along with the practical exposure to basic engineering tools. It also involves Lab work on engineering drawing, working with lathes and CNC (Computer Numerical Control) machines for realizing complex machined parts; and working with circuit boards and chips – soldering, PCB design, multi-layer service-on-chip.
+References:
+Reading material will be provided by the Instructor during the course.
+1-0-2-2
+Language and Literature
+×
+Language and Literature
+This course introduces students to the study of the English language and literature at the undergraduate level. It follows a two-pronged approach: first, teaching the English language through literature; secondly, introducing the students to the world of literature and teaching them strategies of reading and comprehending.
+Course Material:
+The texts for the course are selected by the Instructor from a wide range of short stories, poetry, essays, folktales, artworks, TED talks, videos, and films. This material focuses on the intersections of class, gender, race and other questions that are crucial to the understanding of lived human experience.
+3-0-0-3
+Calculus
+×
+Calculus
+This course aims at building an advanced understanding of calculus in single, multi, and complex variables. Calculus of single variable deals with the concepts of functions of a single variable, limits, continuity, discontinuity, differentiation, applications of derivatives, Taylor’s series and Taylor’s theorem, definite integrals, and their applications. This section also includes first-order ordinary differential equations (ODE) and higher-order ODEs. The calculus of multi-variables discusses functions of multi-variables, limits, continuity, differentiation, integration, and their applications. Complex variables include complex functions, limit, continuity, differentiation, analytic functions, CR equations, harmonic functions, contour integrals, power series, Laurent series, singularities, and residues.
+References:
+Thomas' Calculus – G.B.Thomas, J. Hass, C. Heil, M. D. Weir [Pearson, 2018]
+Advanced Engineering Mathematics – Erwin Kreyszig [Wiley, 2010]
+3-1-0-4
+Introduction to Programming
+×
+Introduction to Programming
+This course aims to introduce problem solving techniques using C programming to help the students to develop analytical and logical skills. The critical aspects of any programming language (PL) are the way it stores the data, operates upon the data, accomplishes input and output and lets you control the sequence of execution of instructions in a program. This course aims to introduce problem-solving techniques using C/Python PLs to help the students to develop analytical and logical skills. The topics of this course include problem-solving techniques, flow charts, algorithms development, and pseudo codes.
+References:
+C How to Program - Deitel & Deitel [PHI, 2010].
+Let Us C – Y. Kanetkar [BPB, 2013].
+3-0-0-3
+Programming Lab
+×
+Programming Lab
+This course deals with the practical aspects of the Introduction to Programming course. It provides hands-on practical knowledge on programming exercises using tools like editors, compilers, and open-source coding platforms.
+0-0-2-1
+Basic Electronic Circuits
+×
+Basic Electronic Circuits
+The objective of this course is to discuss basic concepts of electrical and electronic circuits and components. In a nutshell, it contains different circuit laws, network theorems, the concept of a linear time-invariant system, different sources, semiconductor diode, transistors, operational amplifier, natural and forced response, sinusoidal steady-state analysis, active & passive filters, and transformer.
+Reference:
+R. Dorf and J. Sbovoda, Introduction to Electrical Circuits, 6th Ed., John Wiley, 2006.
+3-0-2-4
+Co-curricular Activities-1
+×
+Co-curricular Activities-1
+This is an attempt to bring co-curricular activities within the ambit of the ICT curriculum. It is envisaged that through these courses, students will be able to internalize the ICT context in an informal setting and make the campus more vibrant. Students can choose to participate in any of the large number of clubs e.g. Electronic hobby club, programming club, press club, Theater club, Remedial Programming and Remedial English Communication.
+0-0-2-1
+Total
+17
+Semester II
+Semester II
+L-T-P-C
+Approaches to Indian Society
+×
+Approaches to Indian Society
+This course aims to introduce students to a broad comparative methodological framework for understanding different cultures with particular reference to social organization, politics and religion illustrated with various ethnographic studies. The objective is to help students apply basic anthropological understandings of cultural and social diversity and reflect upon the shifting trajectories and conditions of tradition and modernity in India. At the end of the course students should have a basic critical and analytical understanding of social and cultural diversity and how such diversity needs to be addressed and understood in the context of our emerging techno-scientific futures.
+Course Material:
+The reading materials for this course will be selected by the instructor from the wide range of texts available in the Resource Centre. The pointers for reading will be provided to students by the course instructor.
+3-0-0-3
+Discrete Mathematics
+×
+Discrete Mathematics
+Discrete Mathematics covers the concept of mathematical proofs, concrete proof techniques, and the use of mathematical language to make precise statements and draw accurate and insightful conclusions on discrete mathematical structures of a wide variety. Topics include: Propositional Logic, First Order Logic, Sets, Relations, Functions, Proof Techniques, Mathematical and Structural Induction, Recursion and Recurrence relations, Counting Techniques, Binomial Theorem, Permutations & Combinations, Matrices, Number Theory, Computational Problems, Algorithms, Formal Languages, Computational Models, Graphs, Trees.
+References:
+Discrete mathematics and its applications, Kenneth H Rosen, Tata McGrawHill, 2011.
+Elements of Discrete Mathematics C. L. Liu, Tata McGrawHill
+3-1-0-4
+Digital Logic and Computer Organization
+×
+Digital Logic and Computer Organization
+This course provides an introduction to the design and implementation of digital circuits and microprocessors. Topics include transistor network design, Boolean algebra, Karnaugh Map based logic minimization, combinational circuits such as buffer, full adder, multiplexer, decoder and encoder. It also covers sequential circuits such as latches, flip-flops, registers, counters, and finite state machine design. Instruction set architecture, and memory hierarchy are also covered as part of the course. Design methodology using both discrete components and hardware description languages are covered in the lab component of this course.
+References:
+Digital Design - M Mano and M Ciletti [Pearson]
+3-0-2-4
+Data Structures
+×
+Data Structures
+The course aims to introduce the concept of data structures, and their indispensability in implementing algorithms and also how they aid in improving performance. An extensive coverage of the well-known and important data structures such as arrays, linked lists, queues, stacks, hash tables, binary search trees, AVL trees, red-black trees, 2-3-4 trees, heaps, along with associated routines/algorithms such as dictionary operations, order statistics, sorting will constitute the contents of the course.
+References:
+Data Structures and Algorithms - Aho, Hopcroft and Ullman [Addison-Wesley]
+3-0-0-3
+Data Structures Lab using OOP
+×
+Data Structures Lab using Object Oriented Programming
+Data Structures serve as building blocks in most computer applications for efficient storage and retrieval of data. As such they also amount to significant weightage in the interview/recruitment process of most CS/IT companies. The aim of this course is to provide the students practical hands-on exposure in implementing different data structures from scratch using the paradigm of Object Oriented Programming. The preferred programming language is C++. This practical course supplements and runs in sync with its theory counterpart 'Data Structures".
+Reference:
+Data Structures and Algorithms in C++, Goodrich, Tamassia, and Goldberg,Wiley 2011.
+1-0-2-2
+Electromagnetic Theory
+×
+Electromagnetic Theory
+The course is designed to introduce the fundamentals of electromagnetic waves and its propagation in a medium. It introduces the tools of vector calculus, the various differential operators and the divergence and the Stokes’ theorem. Electricity and magnetism is introduced. The imaginary fields and their relation to sources is emphasized through Gauss’ and Ampere’s law. The idea of energy stored in these imaginary fields is introduced. Boundary value problems introduce methods to solve partial differential equations. The interdependence of time-varying electric and magnetic fields through Faraday’s law and Maxwell’s law is introduced. The idea of electromagnetic waves and the energy carried by them is introduced to emphasize the physical reality of fields rather than being imaginary.
+References:
+Introduction to Electrodynamics - David. J. Griffiths [Pearson, 2012].
+3-1-0-4
+Exploratory Project 1
+×
+Exploratory Project 1
+This course allows students to explore their surroundings to identify interesting problems that admit a hardware based solution and design and make such a product by leveraging the engineering workshop skills learnt in the first semester. Students are expected to work in groups under a faculty mentor and conceive and implement a project over two semesters.
+0-1-0-1
+Co-curricular Activities-2
+×
+Co-curricular Activities-2
+This is an attempt to bring co-curricular activities within the ambit of the ICT curriculum. It is envisaged that through these courses, students will be able to internalize the ICT context in an informal setting and make the campus more vibrant. Students can choose to participate in any of the large number of clubs e.g. Electronic hobby club, programming club, press club, Theater club, Remedial Programming and Remedial English Communication.
+0-0-2-1
+Total
+20
+Semester III
+Semester III
+L-T-P-C
+Science, Technology, Society
+×
+Science, Technology, Society
+This course introduces students to key questions in the philosophy, history and sociology of science and technology in our times. Science and Technology Studies (STS) is a growing field of interdisciplinary studies that seeks to understand how science and technology shape human lives and livelihoods and how society and culture, in turn, shape the development of science and technology. This course involves reading, class discussion, and group projects on selected topics related to the field.
+Course Material:
+Two standard texts for reference are Sergio Sismondo’s An Introduction to Science and Technology Studies (2009), and David Arnold’s Science, Technology and Medicine in Colonial India (2000).
+3-0-0-3
+Linear Algebra
+×
+Linear Algebra
+Linear Algebra is fundamental to a lot of engineering applications in a wide variety of areas like Robotics, Image & Signal Processing, Machine learning, Coding theory, Quantum Computing, etc. The course introduces students to the Mathematical structure of Vector Spaces, and associated concepts like Subspaces, Dimensions, Linear Transformations and their Matrix representations, Invariant Subspaces, Inner products and Norms. Some tools from Matrix algebra are also covered, for example, Solutions of linear equations, Rank of Matrices, Linear least squares, Eigen-decomposition, and Singular Value decomposition.
+Reference:
+Sheldon Axler, Linear Algebra done right, 3rd Ed., Springer, 2015.
+3-1-0-4
+Design and Analysis of Algorithms
+×
+Design and Analysis of Algorithms
+This course intends to provide a rigorous introduction to fundamental techniques in the design and analysis of algorithms. The course aims to cover the asymptotic notation, divide and conquer techniques, solving recurrences, greedy algorithms, dynamic programming, sorting and searching algorithms, depth first search, breadth-first search, topological sort, minimum spanning trees, shortest path problem, pattern matching, NP-completeness, and approximation algorithms.
+References:
+Introduction to Algorithms - Cormen, Leiserson, Rivest and Stein [PHI, 2010].
+Algorithm Design - Kleinberg and Tardos [Addison-Wesley, 2005.].
+3-1-0-4
+Computer Systems Programming
+×
+Computer Systems Programming
+The course takes an introductory look at the core abstractions in operating systems: processes, virtual memory and files. It takes an in-depth look at the OS services provided by system calls, how system calls work, and how they can be used. Students will become familiar with writing application programs using system calls. Topics include process control, signals, virtual memory, system-level I/O, threads and concurrency issues.
+References:
+Bryant and O’Hallaron, Computer Systems: A Programmer’s Perspective, 3rd edition, Pearson India, 2016.
+3-0-2-4
+Signal and Systems
+×
+Signal and Systems
+The main focus of this course is to introduce different types of signals and systems covering different signal properties such as periodicity, energy, power, etc., and different system properties such as linearity, time-invariance, causality, and stability. It discusses the methods to analyze signals with the help of the Fourier series and Fourier transform. It also elaborates on converting a continuous-time signal to a discrete-time signal using sampling. Further, Laplace and Z-transforms are used to analyze continuous and discrete-time systems, with an introduction to filters (lowpass, highpass, bandpass).
+Reference:
+Signals and Systems - A. V. Oppenheim, A. S. Wilsky and S. H. Nawab [PHI, 1999].
+3-0-2-4
+Exploration Project 2
+×
+Exploration Project 2
+This course allows students to explore their surroundings to identify interesting problems that admit a hardware based solution and design and make such a product by leveraging the engineering workshop skills learnt in the first semester. Students are expected to work in groups under a faculty mentor and conceive and implement a project over two semesters.
+0-0-2-1
+Co-curricular Activities-3
+×
+Co-curricular Activities-3
+This is an attempt to bring co-curricular activities within the ambit of the ICT curriculum. It is envisaged that through these courses, students will be able to internalize the ICT context in an informal setting and make the campus more vibrant. Students can choose to participate in any of the large number of clubs e.g. Electronic hobby club, programming club, press club, Theater club, Remedial Programming and Remedial English Communication.
+0-0-2-1
+TOTAL
+19
+Semester IV
+Semester IV
+L-T-P-C
+Principles of Economics
+×
+Principles of Economics
+This is a foundation course which includes elements of both Micro and Macroeconomics and aims to develop an understanding of basic economic theory and its relation to current issues of the economy. The problem of how to allocate society’s scarce resources efficiently and the ways in which various decision-making units in the economy (individuals and firms) make their consumption and production decisions are taken up when explaining consumer preferences and the theory of the firm. Students will also be introduced to macroeconomic concepts such as national income accounting and inflation. The reference to monetary, fiscal and foreign exchange rate policies will help them appreciate the role of central banks and the government in the economy.
+Reference texts:
+1) Principles of Microeconomics : Gregory Mankiw
+2) Macroeconomics: Blanchard and Johnson
+3-0-0-3
+Probability and Statistics
+×
+Probability and Statistics
+The course introduces students to the basics of probability and statistics. Probability theory has wide-scale applications in mathematics, engineering, and finance. The student is introduced to the axiomatic way of looking at probability invented by Kolmogorov. The different types of random variables are introduced with context and examples. The student learns the limit theorems such as the central limit theorem with their applications. The course ends with some introductory statistics in the form of estimation and regression.
+References:
+A first course in probability, Sheldon Ross
+3-1-0-4
+Database Management System
+×
+Database Management System
+This course teaches use of Database Management System (DBMS) to understand and solve a wide range of information storage and query processing problems. It is a lab-intensive course, where students will be working on a series of assignments where they learn to apply concepts discussed during the lectures to different aspects of database design and querying. As part of the lab assignments/ a project, students will learn to build and query the database using a DBMS tool for the given case study. The students will be learning some advanced topics like query optimization, distributed databases, and transaction management.
+References:
+Silberschatz, Korth & Sudarshan, Database System Concepts, Seventh Edition, 2019,McGraw-Hill
+3-0-2-4
+Embedded Hardware Design
+×
+Embedded Hardware Design
+This course will give the students an understanding of embedded hardware design which includes the programming microcontrollers, interfacing of external peripheral devices such as sensors and actuators to microcontrollers, and troubleshooting the embedded systems. This course aims to cover computing devices, associated peripherals and networks along with high level software(C) and hardware language (Verilog HDL). The course would first only consider the microcontroller as a computing device and build up the concept of peripherals and networks around it. Standard peripherals like ADC, DAC, UART, and Real-Time Clock will be covered. Different communication standards and protocols such as RS 232, RS 485, I2C, CAN, I/O devices like keyboard, keypad and LCD would be discussed. Designing of embedded hardware by embedding sensors and actuators will be explored.
+Reference:
+Designing Embedded Hardware - John Catsoulis [O’Reilly].
+3-0-2-4
+Introduction to Communication Systems
+×
+Introduction to Communication Systems
+It is a foundation course for analog and digital communication and other advanced communication courses. The objective of this course is to make the students appreciate what a telecommunication system is, why it is required, and its fundamental concepts. The course includes the topics of analog communication, such as amplitude modulation, frequency modulation, and demodulation techniques. In digital communication, it contains Shannon’s theory of information, energy, and spectral efficiencies, the entropy concept, sampling theorem, scalar quantization, speech coding, and different modulation techniques. It ends with applications in wireless communication, SATCOM, fiber optic systems, microwave transmission engineering, and transmission line.
+References:
+Introduction to Communication Systems – Upmanyu Madhow
+Digital and Analog Communication Systems – L. W. Couch
+3-0-2-4
+Introduction to Computational Physics
+×
+Introduction to Computational Physics
+This is a calculus-based introductory computational physics course, aimed to develop insights into solving a wide range of physical problems. The emphasis of the course is on providing an exposure to a set of analytical and numerical methods for solving physical problems in classical mechanics (including a basic idea of relativity), nuclear processes, fluid systems, oscillators, central forces, planetary motion, diffusive systems and quantum mechanics. The mathematical approach is based on first-order and second-order dynamical systems, along with analytical and computational methods to solve them.
+References:
+Computational Physics, N. J. Giordano, Prentice Hall, New Jersey
+3-0-3-4.5
+Co-curricular Activities-4
+×
+Co-curricular Activities-4
+This is an attempt to bring co-curricular activities within the ambit of the ICT curriculum. It is envisaged that through these courses, students will be able to internalize the ICT context in an informal setting and make the campus more vibrant. Students can choose to participate in any of the large number of clubs e.g. Electronic hobby club, programming club, press club, Theater club, Remedial Programming and Remedial English Communication.
+0-0-2-1
+TOTAL
+23.5
+Semester V
+Semester V
+L-T-P-C
+Software Engineering
+×
+Software Engineering
+The Software Engineering course introduces the basic principles, practices, tools and techniques required to engineer large complex software systems. The main objective is to understand and learn how complexity and change are engineered during large software development. The contents to be covered are: (1) Software Requirements Modeling and Specifications, (2) Software Architecture and Design Patterns, Software Development Methodologies, (3) Software Measurement and Metrics, (4) Computer Aided Software Engineering and Tool Support (DevOps, Automation), (5) Software Quality Standards and Quality Assurance, (6) Applications of ML and AI in analyzing software products.
+References
+:
+1. Shari Lawrence Pfleeger, and Joanne M. Atlee, Software Engineering: Theory and Practice, 4th Edition, 2006, Pearson.
+2. Pressman, Roger S. Software engineering: a practitioner's approach. Palgrave Macmillan, 2015.
+3-0-2-4
+Digital Communications
+×
+Digital Communications
+This course provides a study of the founding principles and design of digital communication systems. The following topics are covered: sampling, analog signal reconstruction from discrete-time samples, pulse code modulation (PCM), representation of signals as vectors, Gram-Schmidt orthonormalization, study of amplitude shift keying (ASK), phase shift keying (PSK), quadrature amplitude modulation (QAM) and frequency shift keying (FSK), design for bandlimited channels: Nyquist criterion for ISI avoidance, optimal demodulation in additive white Gaussian noise (AWGN) and elements of Information theory. The theory portion is well supplemented by experiments on hardware kits and simulations in softwares such as MATLAB in the lab component of the course.
+References:
+1. Communication Systems, Simon Haykin, publisher: Wiley, Fourth Edition, 2001.
+2. Digital and Analog Communication Systems , Leon W. Couch, publisher: Pearson, Eighth Edition, 2014.
+3. Modern Digital and Analog Communication Systems, B. P. Lathi, Zhi Ding & Hari M. Gupta, publisher: Oxford University Press, 4th edition, 2017.
+3-0-2-4
+Computer Networks
+×
+Computer Networks
+This course will cover the fundamental principles of wired computer networks focusing on the Internet architecture, protocols, and implementation. The objective is to provide an understanding of how the Internet works, what is a network application, the client server model and many other concepts. Lastly, we will learn to create a network of computers that emulate the behavior of the Internet.
+References:
+1. James F. Kurose and Keith W. Ross. 2012. Computer Networking: A Top-Down Approach (6th ed.). Pearson. (RECOMMENDED)
+2. Douglas E. Comer. 2013. Internetworking with TCP/IP (6th ed.). Addison-Wesley Professional.
+3-0-2-4
+ICTE-1
+3-0-2-4
+TE-1
+3-0-0-3
+Numerical and Computational Methods
+×
+Numerical and Computational Methods
+A lot of engineering applications require us to solve problems that may not have analytical solutions. One needs to approximate the problem into a simpler problem that can be solved using computational methods. This course introduces students to various such scenarios, and conveys the importance of analyzing such approximate methods in terms of efficiency and errors. Topics covered are: solutions to transcendental and algebraic equations, interpolation, approximation of functions using polynomials, numerical differentiation and integration, and numerical solution to differential equations.
+References:
+1. Elementary Numerical Analysis, K. Atkinson & W. Han, Wiley-India, New Delhi.
+2. An Introduction to Numerical Methods and Analysis, J. F. Epperson, Wiley, New Jersey.
+3-0-3-4.5
+TOTAL
+23.5
+Semester VI
+Semester VI
+L-T-P-C
+Environmental Science
+×
+Environmental Science
+The course is mandated by the UGC - under the direction of the Honorable Supreme Court - for all undergraduate degree programs offered by any University/College in India. The main objectives are (i) to sensitize the students to the Earth's environment, which sustains life on the Earth, and (ii) to bring awareness regarding climate change, sustainable development, and problems related to the environment affecting human society. The course's central theme is that the environment is both the supplier and the sink for humankind. Everything we humans use in our daily lives originates ultimately from the environment. Similarly, the waste we generate is also sent back to the environment. The course focuses on the sustainable use of the environment.
+Course Material:
+To be specified as required by the Course Instructor/s.
+3-0-0-3
+SE-1
+3-0-0-3
+ICTE-2
+3-0-2-4
+TE-2
+3-0-0-3
+TE-3
+3-0-0-3
+Modeling and Simulation
+×
+Modeling and Simulation
+This course introduces students to various tools, concepts, and techniques required to model, analyze, understand and make predictions of real-world, complex dynamical systems. They learn abstraction techniques, develop conceptual and mathematical models, and use modern softwares. The course lies at the intersection of computer science, applied mathematics, and sciences. Students learn to develop understanding systems from different disciplines by using computation to simulate and analyze epidemic and rumor spread, random walk, diffusion, financial data, opinion formation, forest fires, etc. Students get exposed to differential equations, probabilistic, cellular automata, and agent-based simulation methods. The course also allows the students to understand modeling techniques' universality, limitations, and challenges.
+References:
+1. Angela B. Shiflet & George W. Shiflet. Introduction to Computational Science: Modeling and Simulation for the Sciences. Princeton University Press, 2006.
+2. Hiroki Sayama, Introduction to the Modeling and Analysis of Complex Systems, Open SUNY Textbooks, Milne Library, 2015
+3-0-3-4.5
+High Performance Computing
+×
+High Performance Computing
+The HPC course aims to provide a systems perspective towards achieving the maximum possible performance out of a particular computing system for a particular algorithm/ problem. This course provides an hands-on introduction to parallel computing and aims at teaching basic models of parallel programming including the principles of parallel algorithm design, modern processor and parallel computer architectures, performance analysis, and programming models for shared memory (using OpenMP) and distributed-memory (using MPI) systems. Design, implementation, profiling, parallel complexity analysis and code-optimization of some important scientific and engineering algorithms for parallel systems are also taught with case-studies.
+References:
+1. Introduction to High Performance Computing for Scientists and Engineers; G. Hager & G. Wellein. CRC Press.
+2. Let’s HPC: A web-based platform to aid parallel, distributed and high performance computing education (https://doi.org/10.1016/j.jpdc.2018.03.001)
+3-0-3-4.5
+TOTAL
+20.5
+Semester VII
+Semester VII
+L-T-P-C
+BTP-1
+0-1-6-4
+ICTE-3
+3-0-2-4
+TE-4
+3-0-0-3
+HASSE-1
+3-0-0-3
+SE-2
+3-0-0-3
+TOTAL
+17
+Semester VIII
+Semester VIII
+L-T-P-C
+BTP-2
+0-2-12-8
+OE-1
+3-0-0-3
+OE-2
+3-0-0-3
+TOTAL
+14
+ICTE:
+ICT Elective; TE: Technical Elective; HASSE: Humanities and Social Science Elective; OE: Open Elective; BTP: BTech Project
+Representative list of electives
+Graph Theory and Algorithms
+Approximation Algorithms
+Computational Complexity
+Randomized Algorithms
+Quantum Computing
+Introduction to Cryptography
+Blockchain and Cryptocurrencies
+Adversarial Machine Learning
+Machine Learning and Security
+Introduction to coding theory and
+Applications
+Compiler Design
+Digital Image Processing
+Internet of Things
+Digital Signal Processing
+Statistical Communication
+Wireless System Design
+RF and Antenna Engineering
+Microwave Propagation
+Control Theory
+Human Computer Interaction
+Data Mining and Visualization
+Human Computer Interaction
+Natural Language Processing
+Natural Computing
+Software Engineering
+Optimization
+Computational Financial
+Modern Algebra
+Software Project Management
+Specification and Verification of Systems
+Models of Computation
+System and Network Security
+No SQL Database
+Web Data Management
+Speech Technology
+Deep Learning
+Recommendation Systems
+Intro. to AI
+Intro to Data Science
+Introduction to Robotics
+Introduction to Complex Network
+Stochastic Simulation
+Computational Number Theory
+Einstein's Physics
+Operating Systems
+Nanoelectronics
+Introduction to VLSI Circuits
+Analog IC Design
+Logic for Computer Science
+Modern European Philosophy
+Art: Ideas and Perspectives
+Human Behaviour Management
+Culture, Politics, Identity
+Organisational Behaviour
+Publics in South Asia: Contemporary Perspectives
+Systems, Policies and Implications
+Admission Process
+Details on the application process, admission criteria, fee structure and financial assistance can be found
+here
+Contact Us
+Text
+DA-IICT, DA-IICT Road,
+Gandhinagar 382 007, Gujarat (India)
+Text
+For Admission Enquiries
+Text
+(+91) 079 - 6826 1700
+Text
+(+91) 079 - 6826 1710
+Text
+info[at]daiict[dot]ac[dot]in
+For Admissions
+Voice Call:
+Text
+079 69 08 08 08
+Support Ticket:
+Click here
+Follow Us On
+facebook
+twitter
+Instagram
+Youtube
+LinkedIn
+blogIcon
+Admissions
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral Program
+displayNone
+Scholarships
+Research
+displayNone
+Research Overview
+displayNone
+Deans Office
+displayNone
+Areas
+displayNone
+Sponsored Projects
+displayNone
+Faculty Achievements
+displayNone
+Publications
+displayNone
+Theses and Reports
+Academics
+displayNone
+Undergraduate
+displayNone
+Postgraduate
+displayNone
+Doctoral
+displayNone
+Stakeholder Feedback
+People
+displayNone
+Faculty
+displayNone
+Staff
+displayNone
+Doctoral Scholars
+NAAC
+displayNone
+NAAC Cycle 2 SSR Submitted: 2023
+displayNone
+SSR & Evaluative Reports Addendum 2017
+displayNone
+displayNone
+SSR 2015
+displayNone
+displayNone
+Evaluative Report 2015
+displayNone
+CoE, Government of Gujarat
+displayNone
+Application submitted
+displayNone
+Audited Accounts
+displayNone
+Meeting of the Governing Bodies
+NIRF
+displayNone
+INDIA Ranking 2025 DCS Submitted
+INDIA Ranking 2020 DCS Submitted
+Other Links
+displayNone
+UGC proforma/Mandatory disclosure
+displayNone
+displayNone
+e-Procurement
+displayNone
+displayNone
+Prof. S.C. Sahasrabudhe - A Memoir
+displayNone
+Holidays 2025
+displayNone
+displayNone
+Ecampus
+displayNone
+displayNone
+Intranet
+displayNone
+displayNone
+Courses
+displayNone
+displayNone
+Capacity Development and Skills Enhancement Initiatives
+displayNone
+Parents
+displayNone
+CEP
+displayNone
+DCEI
+displayNone
+displayNone
+Committees
+displayNone
+displayNone
+Anti-Ragging Committee
+displayNone
+displayNone
+DA-IICT Lecture Series
+displayNone
+Synapse
+displayNone
+displayNone
+Concours
+displayNone
+displayNone
+Tree Survey
+displayNone
+Newsletter
+displayNone
+Directory
+displayNone
+Photo Gallery
+Group Website
+Choose a Group Website:
+----------- Group Websites ------------
+Reliance Group
+-------------------------------------
+Reliance Communications
+Reliance Digital TV
+Global Cloud Xchange
+Reliance Globalcall
+-------------------------------------
+Reliance Capital
+RARCL
+Reliance Securities
+Reliance PMS
+Reliance General Insurance
+Reliance Life Insurance
+Reliance Commercial Finance
+Reliance Mutual Fund
+-------------------------------------
+Reliance Infrastructure
+Reliance Energy
+Reliance Power
+Reliance Roads
+Reliance Cements
+Reliance Energy Trading
+Mumbai Metro One
+Nanded Airport
+CGRF
+BSES Delhi
+-------------------------------------
+Reliance Entertainment
+Reliance Big Entertainment
+Reliance Broadcast Network
+BIG Productions
+Reliance Home Video & Games
+Reliance Animation
+Reliance Synergy
+BIG 92.7 FM
+BIG ADDA
+BIG Flix
+Talent House
+Reliance Games
+Zapak
+-------------------------------------
+Kokilaben Hospital
+KDA Nursing College
+Harmony
+DAIICT
+Footer Menu 3
+Feedback
+Copyright Policy
+Disclaimer
+Sitemap
+Copyright © 2021 DA-IICT, Gandhinagar, Gujarat, India
+Visitors:
+Last Updated: 23-05-2025
+Share it
+Back to Top

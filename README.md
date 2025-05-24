@@ -1,4 +1,4 @@
-# 🎓 DAIICT Chatbot – AI-Powered Admission Assistant
+# 🎓 DAIICT Chatbot – AI-Powered Assistant
 
 A smart chatbot built for [daiict.ac.in](https://www.daiict.ac.in), designed to answer queries related to admissions, programs, scholarships, placements, and more.
 
